@@ -1,8 +1,5 @@
-# my-first-repos
-## My First Repositer
-A beginner GitHub project
-created during the workshop.
+## What I Learned Today
 
-## Abouth Me
-My name is **Sehandu**.
-I am learning GitHub.
+I am currently attending a GitHub workshop.
+Today I learned abouth: - Version control - Creating a repository - the edit - commit - push cycle
+My GitHub profile: https://github.com/deshansehandu-tech
